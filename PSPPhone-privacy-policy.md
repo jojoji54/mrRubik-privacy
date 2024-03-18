@@ -14,8 +14,8 @@ The app does use third party services that may collect information used to ident
 ### Use of Permissions
 To offer the full functionalities of our application, we request the following permissions:
 
-- **Storage**: This permission is needed to access photos and videos stored on your device, enabling you to [...state the purpose...].
-- **Application Access**: We request permission to view the applications installed on your device to [...state the purpose...].
+- **Storage**: This permission is needed to access photos and videos stored on your device, enabling you to see fomr the launcher.
+- **Application Access**: We request permission to view the applications installed on your device to launch from the launch.
 
 Please note that you have control over these permissions and can revoke them at any time through your device's settings.
 
