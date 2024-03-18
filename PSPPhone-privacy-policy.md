@@ -11,6 +11,15 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
 
+### Use of Permissions
+To offer the full functionalities of our application, we request the following permissions:
+
+- **Storage**: This permission is needed to access photos and videos stored on your device, enabling you to [...state the purpose...].
+- **Application Access**: We request permission to view the applications installed on your device to [...state the purpose...].
+
+Please note that you have control over these permissions and can revoke them at any time through your device's settings.
+
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
@@ -31,8 +40,12 @@ We may employ third-party companies and individuals due to the following reasons
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
+### Data Collection
+Our application may request access to your photos and videos to see and interact with them
+
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+We value your trust in providing us with your Personal Information, thus we strive to use commercially acceptable means of protecting it. However, remember that no method of transmission over the internet or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. We commit to handling the data we access, including photos, videos, and the list of installed applications, with care and responsibility, ensuring that their use is strictly linked to the functionalities provided by our application.
 
 ### Children’s Privacy  
 This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
