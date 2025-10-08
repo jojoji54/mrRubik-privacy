@@ -79,3 +79,5 @@ Estos términos se rigen por la ley española. Salvo norma imperativa, las parte
 Legal: https://www.mrrubik.com
 
 DPO/Privacidad (si aplica): donrubikdev@gmail.com
+
+Términos de uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
