@@ -1,0 +1,95 @@
+```markdown
+# Privacy Policy for CleanUninstall
+
+**Effective Date:** February 10, 2026
+
+At CleanUninstall, your privacy is a priority. This Privacy Policy explains what information is processed when you use the app, how it is used, and how it is protected.
+
+By using CleanUninstall, you agree to this Privacy Policy.
+
+---
+
+## Information We Process
+
+CleanUninstall is designed to work locally on your Mac.
+
+Depending on how you use the app, it may process:
+
+- App and file/folder names and paths selected by you
+- Related file paths found during cleanup scans
+- File metadata needed for cleanup (for example, file size and type)
+- Local app settings (for example, cleanup preferences)
+- Local purchase state (Pro unlocked status)
+
+CleanUninstall does **not** collect file contents for cloud processing and does **not** upload your scanned files to our servers.
+
+---
+
+## How We Use Information
+
+Processed information is used only to provide app functionality, including:
+
+- Scanning for related leftover files from apps you choose
+- Displaying detected files so you can review them
+- Moving selected files to Trash
+- Managing Pro access and restore flow through Apple’s purchase system
+- Showing in-app review prompts via Apple APIs
+
+---
+
+## Third-Party Services
+
+CleanUninstall relies on Apple services for platform features:
+
+- **App Store / StoreKit** (in-app purchases and restore)
+- **Apple In-App Review API** (rating prompt)
+
+These services are governed by Apple’s own privacy policies. CleanUninstall does not receive your full payment details.
+
+---
+
+## Full Disk Access Permission (macOS)
+
+CleanUninstall may request **Full Disk Access** to detect more leftover files in protected locations.
+
+- Granting this permission is optional.
+- You can revoke it anytime in macOS Settings.
+- Access is used only for local scan functionality on your device.
+
+---
+
+## Data Sharing
+
+We do not sell your personal data.  
+We do not share scanned file data with advertisers or data brokers.
+
+If you contact support, we may use the information you provide (such as your email and issue details) only to respond and provide assistance.
+
+---
+
+## Data Retention
+
+Because CleanUninstall works locally, scanned data and settings remain on your device unless you delete the app or clear data manually.  
+Purchase records are managed by Apple.
+
+---
+
+## Children’s Privacy
+
+CleanUninstall is not intended for children under 13. We do not knowingly collect personal data from children.
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any updates will be published with a revised Effective Date.
+
+---
+
+## Contact Us
+
+If you have questions about this Privacy Policy or data handling, contact us:
+
+- **Email:** mrrubikdev@gmail.com  
+- **Website:** https://www.mrrubik.com
+```
