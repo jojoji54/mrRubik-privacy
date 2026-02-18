@@ -1,83 +1,90 @@
-Condiciones de uso
+# Condiciones de uso y política de privacidad
 
-1. Objeto
-La app convierte Excel/PDF en facturas compatibles con Veri*Factu, aplica requisitos técnicos (sellado, hashes/cadena de integridad, QR) y permite su envío a AEAT. Incluye funciones opcionales de IA (OCR) mediante monedas consumibles.
+**Última actualización: 18 de febrero de 2026**
 
-2. Requisitos y responsabilidad del usuario
+## 1. Objeto
+La app permite convertir archivos Excel/PDF en facturas compatibles con Veri*Factu, aplicar requisitos técnicos (sellado, hashes/cadena de integridad y QR), generar paquetes de envío y, cuando corresponda, remitirlos a la AEAT.  
+También incluye funciones opcionales de IA (por ejemplo, OCR) mediante monedas consumibles.
 
-Eres responsable de la veracidad y legalidad de los datos enviados.
+## 2. Requisitos y responsabilidad del usuario
+El usuario es responsable de la veracidad, exactitud y legalidad de los datos cargados y enviados.  
+El usuario debe disponer de certificados, autorizaciones y obligaciones fiscales exigibles.  
+Antes de operar en PRODUCCIÓN, se recomienda validar en PRE y revisar siempre los resultados generados.  
+El usuario es responsable de mantener copias de seguridad cuando su operativa lo requiera.
 
-Debes contar con certificados, permisos y obligaciones fiscales que te correspondan.
+## 3. Planes, licencias y suscripciones
+- **Gratis**: funciones base, envío a PRE, IA mediante monedas.  
+- **Estándar (pago único)**: habilita cambio de endpoint PRE/PROD.  
+- **Pro (anual)**: PRE/PROD, actualizaciones legales, backups en nube y 10 monedas/año.  
+- **Premium (mensual)**: incluye lo anterior y 3 monedas/mes.  
+- **Multi-equipo (suscripción)**: habilita colaboración entre usuarios del equipo y trazabilidad sincronizada en nube por empresa.  
 
-Antes de enviar a PRODUCCIÓN, valida en PRE. Revisa las previsualizaciones y resultados.
+La disponibilidad de funciones puede variar según plan, plataforma y estado de suscripción.
 
-Mantén copias de seguridad. La opción de backups en nube depende del plan contratado.
+## 4. Monedas IA (consumibles)
+Se consume 1 moneda por análisis IA.  
 
-3. Planes y licencias
+Caducidad por pack:
+- **4,99€ / 9,99€**: 2 meses.  
+- **19,99€ / 29,99€**: 4 meses.  
+- **49,99€ / 99,99€**: 6 meses.  
 
-Gratis: funciones base; envío a PRE; IA disponible con monedas.
-
-Estándar (pago único): cambio de endpoint PRE/PROD.
-
-Pro (anual): PRE/PROD, actualizaciones legales, backups en nube, +10 monedas/año.
-
-Premium (mensual): todo lo anterior + 3 monedas/mes.
-La disponibilidad de funciones puede variar según el plan. Los planes y precios pueden actualizarse.
-
-4. Monedas IA (consumibles)
-
-Se consumen 1 moneda por cada análisis IA realizado.
-
-Caducidad de monedas por pack:
-
-4,99€ / 9,99€ → 2 meses
-
-19,99€ / 29,99€ → 4 meses
-
-49,99€ / 99,99€ → 6 meses
-
-Monedas incluidas en planes: Pro (10/año) y Premium (3/mes), con caducidad 2 meses.
+Monedas incluidas en suscripciones:
+- **Pro**: 10 monedas/año (caducidad 2 meses).  
+- **Premium**: 3 monedas/mes (caducidad 2 meses).  
 
 Las monedas caducadas se eliminan automáticamente y no son reembolsables.
 
-El saldo total visible se recalcula descontando caducadas.
+## 5. Compras dentro de la app (IAP)
+Las compras y suscripciones se gestionan por la tienda de la plataforma (App Store, Google Play u otras), con sus propios términos, impuestos y políticas de reembolso.  
+Las suscripciones se renuevan automáticamente salvo cancelación previa según condiciones de la tienda.
 
-5. Compras dentro de la app (IAP)
+## 6. Funcionalidad Multi-equipo y trazabilidad en nube
+Cuando el plan Multi-equipo está activo, la app puede sincronizar en nube trazas y eventos de cumplimiento para trabajo colaborativo.  
+Los registros se gestionan con segregación lógica por empresa (empresa activa/identificador de empresa), de forma que historial, exportaciones y auditoría se tratan por empresa.  
+Las trazas sincronizadas se almacenan cifradas antes de su persistencia en nube.  
+La visibilidad de la información depende de los permisos del equipo y de la configuración de la cuenta administradora del espacio colaborativo.
 
-Las compras se gestionan por la tienda de tu plataforma (App Store/Play/…); aplican sus términos, impuestos y políticas de reembolso.
+## 7. Envío a AEAT y servicios de terceros
+Para envíos fiscales intervienen servicios externos (por ejemplo, AEAT).  
+Para nube/backup pueden intervenir proveedores externos elegidos por el usuario.  
+Para IA/OCR pueden intervenir proveedores tecnológicos externos cuando el usuario activa esa función.  
+El tratamiento por terceros se limita a la prestación del servicio solicitado.
 
-Suscripciones: se renuevan automáticamente salvo cancelación con al menos 24 h de antelación. Gestiona o cancela desde tu cuenta de la tienda.
+## 8. Privacidad y protección de datos (RGPD/LOPDGDD)
+**Responsable del tratamiento:** Juan Ormaechea (Mr Rubik).  
 
-En plataformas sin IAP (p. ej., Windows), la app puede ofrecer desbloqueos directos equivalentes a los planes.
+**Datos tratados:** identificación y cuenta, datos de facturación introducidos por el usuario, metadatos técnicos y trazas de cumplimiento, datos de uso/diagnóstico y datos necesarios para funciones de nube o IA activadas por el usuario.  
 
-6. Actualizaciones, cambios normativos y disponibilidad
+**Finalidades:** prestación del servicio, cumplimiento normativo/técnico, seguridad, soporte, mejora del producto y gestión de suscripciones.  
 
-Nos esforzamos por mantener la app actualizada ante cambios de Veri*Factu/AEAT, pero no garantizamos disponibilidad continua ni compatibilidad inmediata.
+**Base jurídica:** ejecución del contrato, cumplimiento de obligaciones legales, interés legítimo en seguridad/estabilidad y, cuando aplique, consentimiento.  
 
-Podemos añadir, modificar o retirar funciones y planes. Avisaremos en la medida de lo posible.
+**Conservación:** durante el tiempo necesario para prestar el servicio, cumplir obligaciones legales o atender responsabilidades; después se suprimen o anonimizan.  
 
-7. Limitación de responsabilidad
-En la máxima medida que permita la ley, Mr Rubik no será responsable por lucro cesante, pérdida de datos, interrupción del negocio, sanciones administrativas ni por errores de servicios de terceros (incluida AEAT). El uso es bajo tu propia responsabilidad.
+**Destinatarios:** proveedores tecnológicos encargados del tratamiento, plataformas de pago y organismos públicos cuando sea legalmente obligatorio.  
 
-8. Privacidad y datos
+**Transferencias internacionales:** podrán existir si el proveedor tecnológico opera fuera del EEE, aplicando garantías adecuadas (cláusulas contractuales tipo u otras medidas legales vigentes).  
 
-Algunos datos técnicos (logs/análisis anónimos) pueden emplearse para diagnóstico y mejora.
+**Derechos:** acceso, rectificación, supresión, oposición, limitación y portabilidad, escribiendo a `donrubikdev@gmail.com`. También puedes reclamar ante la AEPD.
 
-Para funciones de nube/IA pueden intervenir proveedores externos; se limita el tratamiento a lo necesario para prestar el servicio.
+## 9. Seguridad
+Se aplican medidas técnicas y organizativas razonables para proteger la información, incluyendo control de acceso, cifrado en tránsito y mecanismos de integridad de registros.  
+Ningún sistema puede garantizar seguridad absoluta.
 
-9. Propiedad intelectual
-El software, documentación, marcas y contenidos son titularidad de Juan Ormaechea o de sus licenciantes. No se permite ingeniería inversa, copia, venta ni sublicencia.
+## 10. Propiedad intelectual
+El software, documentación, marcas y contenidos pertenecen a Juan Ormaechea o sus licenciantes.  
+Queda prohibida la copia, ingeniería inversa, venta o sublicencia no autorizada.
 
-10. Resolución y suspensión
-Podemos suspender o cancelar el acceso ante incumplimiento de estos términos, fraude o uso abusivo. Podrás dejar de usar la app en cualquier momento.
+## 11. Suspensión o cancelación
+Podrá suspenderse o cancelarse el acceso por incumplimiento de estas condiciones, fraude o uso abusivo.  
+El usuario puede dejar de usar la app en cualquier momento.
 
-11. Ley aplicable y jurisdicción
-Estos términos se rigen por la ley española. Salvo norma imperativa, las partes se someten a los juzgados y tribunales de Zaragoza.
+## 12. Ley aplicable y jurisdicción
+Estas condiciones se rigen por la ley española.  
+Salvo norma imperativa, las partes se someten a los Juzgados y Tribunales de Zaragoza.
 
-12. Contacto legal
-
-Legal: https://www.mrrubik.com
-
-DPO/Privacidad (si aplica): donrubikdev@gmail.com
-
-Términos de uso (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+## 13. Contacto legal
+- **Legal**: https://www.mrrubik.com  
+- **Privacidad**: donrubikdev@gmail.com  
+- **EULA Apple**: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
