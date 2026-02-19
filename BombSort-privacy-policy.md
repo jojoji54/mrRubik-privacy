@@ -1,24 +1,24 @@
-# BombSort Terms of Use and Privacy Policy
+# BomboBits Terms of Use and Privacy Policy
 
 **Last updated: February 19, 2026**
 
-This document describes the terms of use and privacy policy for the **BombSort** app.
+This document describes the terms of use and privacy policy for the **BomboBits** app.
 
 ## 1. Data Controller
 **Data Controller:** Juan Ormaechea (Mr Rubik)  
 **Privacy contact:** donrubikdev@gmail.com  
 **Website:** https://www.mrrubik.com
 
-## 2. What BombSort Is
-BombSort is an arcade game for mobile, tablet, and desktop.  
+## 2. What BomboBits Is
+BomboBits is an arcade game for mobile, tablet, and desktop.  
 The app lets users play matches, store settings and scores on-device, and display ads.
 
 ## 3. Age and Acceptable Use
-BombSort is intended for a general audience. If you are under legal age, use the app under parent/guardian supervision.  
+BomboBits is intended for a general audience. If you are under legal age, use the app under parent/guardian supervision.  
 Users agree to use the app lawfully and not to tamper with, decompile, or misuse it.
 
 ## 4. In-App Purchases
-BombSort may offer a one-time in-app purchase to **remove ads** (currently planned at **EUR 1.99**, excluding taxes and potential store/country variations).  
+BomboBits may offer a one-time in-app purchase to **remove ads** (currently planned at **EUR 1.99**, excluding taxes and potential store/country variations).  
 Purchases, billing, renewals (if applicable), and refunds are handled exclusively by the platform store (Apple App Store / Google Play) under their own terms.
 
 ## 5. Advertising
@@ -39,7 +39,7 @@ When using AdMob and app stores, third parties may process technical data, such 
 - Diagnostics and ad performance information.
 - Purchase/restore events processed by Apple/Google.
 
-BombSort does not require account creation and does not request name, national ID, postal address, or email to play.
+BomboBits does not require account creation and does not request name, national ID, postal address, or email to play.
 
 ## 7. Purposes and Legal Basis
 We process data to:
@@ -51,7 +51,7 @@ We process data to:
 **Legal basis:** performance of the service, legal compliance, legitimate interest (security/fraud prevention), and consent where required (for example, ad privacy consent in certain regions).
 
 ## 8. Consent and Privacy Options
-BombSort integrates Google's consent flow (UMP).  
+BomboBits integrates Google's consent flow (UMP).  
 Where applicable, users will see a privacy consent form and/or a **“Privacy Options”** entry point to review or change choices.
 
 ## 9. Data Retention
@@ -76,12 +76,12 @@ Reasonable technical and organizational measures are applied to protect informat
 No system can guarantee absolute security.
 
 ## 13. Intellectual Property
-The game, code, design, trademark, and content of BombSort belong to the owner or licensors.  
+The game, code, design, trademark, and content of BomboBits belong to the owner or licensors.  
 Unauthorized copying, distribution, or exploitation is prohibited.
 
 ## 14. Policy Updates
 We may update this document due to legal or technical changes.  
-The current version is the one published at BombSort's official privacy policy URL.
+The current version is the one published at BomboBits's official privacy policy URL.
 
 ## 15. Governing Law
 Unless mandatory law provides otherwise, these terms are governed by Spanish law and subject to the courts of Zaragoza, Spain.
