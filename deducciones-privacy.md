@@ -1,6 +1,6 @@
 # Política de Privacidad (Deducciones Renta)
 
-**Fecha de entrada en vigor:** 19 de febrero de 2026
+**Fecha de entrada en vigor:** 25 de febrero de 2026
 
 Esta Política de Privacidad explica cómo Deducciones Renta (“la app”, “nosotros”) recopila, usa y protege tu información cuando utilizas la aplicación.
 
@@ -10,14 +10,19 @@ Esta Política de Privacidad explica cómo Deducciones Renta (“la app”, “n
 
 ### A. Datos que introduces en la app
 Podemos tratar la información que decides introducir para calcular deducciones, por ejemplo:
-- Perfil fiscal (ejercicio, comunidad autónoma, provincia, municipio)
-- Datos personales/familiares
+- Perfil fiscal (ejercicio, comunidad autónoma, provincia y municipio)
+- Datos personales y familiares necesarios para el cálculo
 - Datos económicos y fiscales
-- Datos necesarios para simulaciones y resultados
+- Datos necesarios para simulaciones, resultados e informes
 
-### B. Revisión IA (opcional)
-Si activas la revisión con IA, se envía la información necesaria para contrastar deducciones al servicio de IA integrado por nuestra infraestructura técnica.  
-No se envían credenciales de la AEAT ni datos bancarios de pago de tarjetas.
+### B. Funciones de revisión inteligente (si están disponibles)
+La app puede incluir, según plataforma o versión, una función opcional de revisión inteligente de deducciones.
+
+- En la versión actual distribuida en App Store (Apple), esta función está deshabilitada y **no se envían datos fiscales a servicios de IA de terceros**.
+- Si esta función estuviera disponible en otras plataformas o futuras versiones, la app solicitará **consentimiento previo** antes de enviar datos.
+- En ese caso, se enviará únicamente la información necesaria para revisar deducciones (por ejemplo, datos fiscales/económicos introducidos y deducciones detectadas) a través de nuestra infraestructura técnica y, cuando corresponda, a un proveedor de IA de terceros (actualmente OpenAI).
+- No se envían credenciales de la AEAT, ni datos completos de tarjetas de pago.
+- Además, para la revisión IA no se envían el nombre completo ni el NIF/NIE.
 
 ### C. Compras integradas y derechos de uso (si compras monedas/packs)
 Si realizas compras dentro de la app, podemos tratar:
@@ -40,9 +45,11 @@ Podemos tratar datos técnicos mínimos para estabilidad y soporte:
 Usamos la información para:
 - Ofrecer las funciones de la app (cálculo de deducciones, simulaciones, PDF, borradores)
 - Mantener tus datos y preferencias
-- Validar compras y restauraciones
+- Validar compras y restauraciones (si aplica)
 - Mejorar estabilidad, rendimiento y soporte técnico
 - Cumplir obligaciones legales aplicables
+
+Si la función de revisión inteligente estuviera disponible y la activas con tu consentimiento, la información se usará también para revisar posibles deducciones adicionales de forma orientativa.
 
 ---
 
@@ -51,7 +58,7 @@ Usamos la información para:
 Dependiendo de tu ubicación, tratamos datos sobre la base de:
 - **Ejecución de un servicio** solicitado por ti
 - **Interés legítimo** (seguridad, prevención de fraude, mejora del servicio)
-- **Consentimiento** (por ejemplo, para funciones opcionales como revisión IA, cuando corresponda)
+- **Consentimiento** (por ejemplo, para funciones opcionales como la revisión inteligente, cuando corresponda)
 
 ---
 
@@ -60,7 +67,8 @@ Dependiendo de tu ubicación, tratamos datos sobre la base de:
 **No vendemos datos personales.**
 
 Podemos compartir información limitada con:
-- Proveedores tecnológicos necesarios para prestar el servicio (por ejemplo, compra integrada, backend técnico, revisión IA)
+- Proveedores tecnológicos necesarios para prestar el servicio (por ejemplo, compras integradas, almacenamiento local/cloud, backend técnico)
+- Proveedores de revisión inteligente/IA (por ejemplo, OpenAI), **solo si la función está disponible y el usuario la autoriza**
 - Autoridades, cuando exista obligación legal
 - Procesos corporativos (fusión/adquisición), respetando esta política y la normativa aplicable
 
@@ -112,7 +120,7 @@ Algunos proveedores pueden operar fuera de tu país. Cuando exista transferencia
 
 ## 10) Servicios de terceros y enlaces
 
-La app puede integrar servicios de terceros (por ejemplo, compras integradas, servicios cloud o IA).  
+La app puede integrar servicios de terceros (por ejemplo, compras integradas, servicios cloud y, si está disponible, revisión inteligente/IA).  
 El tratamiento realizado por esos terceros se rige por sus propias políticas de privacidad.
 
 ---
